@@ -320,6 +320,26 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Airi](https://github.com/moeru-ai/airi)
+💖🧸 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you.
+<details>
+
+![Image](https://github.com/moeru-ai/airi/raw/main/docs/public/readme-image-pc-preview.png)
+
+### Category
+Neuro-sama, AI VTuber, Cyber Partner
+
+### Description
+Unlike the other AI driven VTuber open source projects, アイリ VTuber was built with many support of Web technologies such as WebGPU, WebAudio, Web Workers, WebAssembly, WebSocket, etc. from the first day.
+
+This means that アイリ VTuber is capable to run on modern browsers and devices, and even on mobile devices (already done with PWA support), this brought a lot of possibilities for us (the developers) to build and extend the power of アイリ VTuber to the next level, while still left the flexibilities for users to enable features that requires TCP connections or other non-Web technologies such as connect to voice channel to Discord, or playing Minecraft, Factorio with you and your friends.
+
+### Links  
+- [GitHub](https://github.com/moeru-ai/airi)
+- [Try it](https://airi.moeru.ai)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
